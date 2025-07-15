@@ -1,16 +1,12 @@
-# gr-1
- Learn more and get the full tutorial here:  
-👉 [https://gronteq.com//gr-1-guide](https://yourwebsite.com/gr-1-guide)
-
-## Features
-- Easy to use
-- Open source
-- Lightweight
-
-## How to Use
-1. Clone the repo
-2. Run `your-command-here`
-3. Done!
-
-## License
-MIT
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>gr-1</title>
+</head>
+<body>
+  <h1>Welcome to gr-1</h1>
+  <p>This is an open-source, lightweight project. <a href="https://gronteq.com/gr-1-guide">View Full Tutorial</a></p>
+</body>
+</html>
